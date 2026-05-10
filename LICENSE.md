@@ -1,4 +1,4 @@
-
+bedwars underground Scripts offers the most advanced bedwars Script, with teleport and auto-heal. Perfect for dominating any match.
 
 
 
